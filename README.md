@@ -5,7 +5,7 @@
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://carlosdanielroiz.vercel.app/)
 [![Yotube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCqb2Wir4FZ88qkD1j4ju9g)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosdanielroiz/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosdanielrdgs/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NielRodrigues&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NielRodrigues&layout=compact&theme=radical)
 
